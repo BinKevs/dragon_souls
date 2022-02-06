@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dragon_souls/static/css/main.b5fa0b24.css",
+    "main.js": "/dragon_souls/static/js/main.8402bc13.js",
+    "static/js/787.1a1eea2b.chunk.js": "/dragon_souls/static/js/787.1a1eea2b.chunk.js",
+    "static/media/second_screen_bg.png": "/dragon_souls/static/media/second_screen_bg.7d9b26f684d6d0f3b837.png",
+    "static/media/tokenomics_bg.png": "/dragon_souls/static/media/tokenomics_bg.59a9c451d46016603aa6.png",
+    "static/media/second_screen_img.png": "/dragon_souls/static/media/second_screen_img.94dc8b228c37a9ac150c.png",
+    "static/media/landing_gif.png": "/dragon_souls/static/media/landing_gif.f63b5c91d59e3664e0fb.png",
+    "static/media/tokenomics_img.png": "/dragon_souls/static/media/tokenomics_img.dd4a7d4232acd49f2d3b.png",
+    "static/media/Eyes_Left.png": "/dragon_souls/static/media/Eyes_Left.c2d1ee9db0b952f5dc1d.png",
+    "static/media/Eyes_Right.png": "/dragon_souls/static/media/Eyes_Right.0fdd58b3a5253f08675b.png",
+    "static/media/close.png": "/dragon_souls/static/media/close.922c860c410c74724836.png",
+    "static/media/dragon_soul_nav_logo.png": "/dragon_souls/static/media/dragon_soul_nav_logo.63ae08bfa0c2b578a8e1.png",
+    "static/media/logo.svg": "/dragon_souls/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dragon_souls/index.html",
+    "main.b5fa0b24.css.map": "/dragon_souls/static/css/main.b5fa0b24.css.map",
+    "main.8402bc13.js.map": "/dragon_souls/static/js/main.8402bc13.js.map",
+    "787.1a1eea2b.chunk.js.map": "/dragon_souls/static/js/787.1a1eea2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5fa0b24.css",
+    "static/js/main.8402bc13.js"
+  ]
+}
